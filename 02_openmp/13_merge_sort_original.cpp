@@ -30,7 +30,7 @@ void merge_sort(std::vector<int>& vec, int begin, int end) {
 }
 
 int main() {
-  int n = 100;
+  int n = 1000;
   std::vector<int> vec(n);
   for (int i=0; i<n; i++) {
     vec[i] = rand() % (10 * n);
