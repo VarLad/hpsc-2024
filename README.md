@@ -1,5 +1,8 @@
 # hpc_lecture
 
+Name: VARDHAN Chetan
+id: 23M38013
+
 学籍番号：
 
 |          | Topic                                | Sample code               |
